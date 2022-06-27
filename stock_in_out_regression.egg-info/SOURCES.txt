@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+stock_in_out_regression/__init__.py
+stock_in_out_regression/stockout_functions.py
+stock_in_out_regression.egg-info/PKG-INFO
+stock_in_out_regression.egg-info/SOURCES.txt
+stock_in_out_regression.egg-info/dependency_links.txt
+stock_in_out_regression.egg-info/top_level.txt
